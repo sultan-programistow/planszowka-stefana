@@ -136,7 +136,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [projekty-badawcze.png](../export/karty/edukacja/projekty-badawcze.png) |
 | --- | 32 karty najmu | --- |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [dania-pod-drzwi.png](../export/karty/najem/dania-pod-drzwi.png) |
-| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [prenumaraty.png](../export/karty/najem/prenumeraty.png) |
+| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [prenumeraty.png](../export/karty/najem/prenumeraty.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [przewozy.png](../export/karty/najem/przewozy.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [taryfiarz.png](../export/karty/najem/taryfiarz.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [garaz.png](../export/karty/najem/garaz.png) |
