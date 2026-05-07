@@ -1,13 +1,13 @@
 # Druk kart
 
 Gra wymaga wydrukowania 171 kart. Ich rewersy i awersy w formacie .png znajdują się w katalogu [export/karty](../export/karty) i zostały przygotowane z myślą o 
-rozmiarze kart 63 x 88mm (czyli CCG - klasyczne karty do gier typu poker, pasjans, itp). Czyste karty w takim rozmiarze można zamowić np. ze sklepu mepel.pl:
+rozmiarze kart 63 x 88mm (czyli CCG - klasyczne karty do gier typu poker, pasjans, itp). Czyste karty w takim rozmiarze można zamówić np. ze sklepu mepel.pl:
 
 * https://mepel.pl/Czyste-karty-do-gry-63-x-88-mm-55-szt-ccg-classic-card-game
 
 55 sztuk w opakowaniu, więc potrzebujecie zamówić 4 takie komplety.
 
-Widzę, że na amazonie.pl można taniej dostać cały komplet 180 kart (ale przyznaję, że tych nie próbowałem):
+Na amazonie.pl można taniej dostać cały komplet 180 kart (ale przyznaję, że tych nie próbowałem):
 
 * https://www.amazon.pl/niepowlekane-180-planszowych-przewodniki-projekty/dp/B07VYLY9PK
 
