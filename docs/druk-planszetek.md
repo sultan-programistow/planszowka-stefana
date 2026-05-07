@@ -2,7 +2,7 @@
 
 Każdy z graczy potrzebuje mieć planszetkę. Prawdopodobnie najłatwiej będzie wydrukować planszetki na papierze samoprzylepnym (patrz [opis w druk-kart.md](./druk-kart.md)),
 nakleić je na blok techniczny lub inny brystol, wyciąć nożyczkami, po czym nakleić (klejem biurowym) ponownie na bloku technicznym/brystolu, wyciąć i tak powtarzać aż do 
-osiągnięcia pożądanej sztywności planszetki. Oczywiście można planszetkę wydrukować i na zwykłym papierze i tego używać, no ale będzie latać po stole.
+osiągnięcia pożądanej sztywności planszetki. Oczywiście można planszetkę wydrukować i na zwykłym papierze i tego używać, no ale to będzie latać po stole.
 
 ## Obrazki do druku
 
