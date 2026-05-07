@@ -26,7 +26,7 @@ przetrwanie: a to trzeba się najeść, a to opłacić czynsze, a to się ubrani
 <p align="middle"><em>tak wygląda rozłożony prototyp gry przygotowany dla 4 osób</em></p>
 
 Gra jest podobna swoim typem do takich tytułów jak ["Na Skrzydłach"](https://www.rebel.pl/gry-planszowe/na-skrzydlach-108556.html), ["Agricola"](https://www.rebel.pl/gry-planszowe/agricola-wersja-dla-graczy-101438.html). Każdy z graczy tak jakby układa własnego pasjansa poprzez
-rozbudowywanie swojej planszy o kolejne karty dostępne dla wszystkich. Cas gry jest ograniczony (8 rund po 6 tur) - a więc nie rozwleka się w 
+rozbudowywanie swojej planszy o kolejne karty dostępne dla wszystkich. Czas gry jest ograniczony (8 rund po 6 tur) - a więc nie rozwleka się w 
 nieskończoność. Na koniec wszyscy sprawdzają wartość punktową swego pasjansa. Zero interakcji bezpośredniej (nie ma "wbijania noża
 w innych graczy" ani nawet handlu pomiędzy nimi). Za to jest spora losowość: jak się kostki i karty uwezmą na kimś, to i ciężko jest 
 ukończyć wysoko punktowanego pasjansa.
