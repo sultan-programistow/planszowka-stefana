@@ -31,6 +31,9 @@ nieskończoność. Na koniec wszyscy sprawdzają wartość punktową swego pasja
 w innych graczy" ani nawet handlu pomiędzy nimi). Za to jest spora losowość: jak się kostki i karty uwezmą na kimś, to i ciężko jest 
 ukończyć wysoko punktowanego pasjansa.
 
+* 2 — 4 graczy
+* 1,5 — 2,5 godziny
+
 # Wydrukowanie egzemplarza
 
 Gdyby ktoś z was poczuł chęć zagrania w ten tytuł we własnym gronie, to na dzień dzisiejszy ma dwie możliwości:
