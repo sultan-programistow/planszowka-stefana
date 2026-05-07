@@ -31,7 +31,8 @@ Możecie dowolny inny rozkład sobie przygotować/wydrukować. Albo może macie 
 [gotowy zestaw](https://mepel.pl/micro-moonshine-drewniane-banknoty). Albo użyć zupełnie innych nominałów - tak długo
 jak wam to działa to używajcie tego co macie.
 
-Do żetonów 1-dolarowych użułem grafik z [zetony.xcf](../src/zetony.xcf) (mogę je wyeksportować do .png jeśli dacie znać, że potrzebujecie),
+Do żetonów 1-dolarowych użułem grafik
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bdb78651-2282-4db5-b7d0-231d2709c37e" />
 nadrukowanych na [żółte plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/gold-gaming-tokens/).
 
 Do 5-dolarowych żetonów takiej grafiki: [banknoty-pieciodolarowe.png](../src/banknoty-pieciodolarowe.png) - nadrukowane na brystol,
@@ -43,21 +44,17 @@ inny żeton zastępczy też będzie ok.
 # Żetony jedzenia
 
 W grze występują znaczniki jedzenia, których maksymalnie będzie potrzebnych 12 sztuk. Mogą być dowolnego kształtu i koloru, ja użyłem grafiki
-
-<img width="80" height="80" alt="żeton jedzenia" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-jedzenia.png"/>
-
+<br/><img width="80" height="80" alt="żeton jedzenia" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-jedzenia.png"/><br/>
 wydrukowanej i naklejonej z obu stron na [zielone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/green-gaming-tokens/)
 
 # Żetony trwałości/nauki
 
 W grze występują znaczniki trwałości ubrań (których maksymalnie będzie potrzebnych 12 sztuk) i znaczniki nauki (a tych 19). Mogą być dowolnego kształtu i koloru, mogą
 być osobno. Ja użyłem grafik
-
 <p>
   <img width="80" height="80" alt="żeton ubrania awers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-ubrania-awers.png"/>
   <img width="80" height="80" alt="żeton nauki rewers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-nauki-rewers.png"/>
 </p>
-
 wydrukowanych i naklejonych na [czerwone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/red-gaming-tokens/) - z
 jednej strony żetonu nakleiłem ubranie, z drugiej strony biret. W ten sposób do wygodniej gry starczy mi 23 dwustronnych żetonów ubrań/nauki zamiast pełnego zestawu 12+19.  
 
@@ -69,7 +66,7 @@ Każdy z czterech graczy musi posiadać dwustronny żeton głodu/najedzenia. Z j
   <img width="130" height="130" alt="żeton glodu rewers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-glodu-rewers.png"/>
 </p>
 
-Jako że żeton ten przekręca się każdej rundy dwa razy, sugeruję użyć czegoś większego, wygodniejszego niż żetony o średnicy 15mm. Przykładowo drewnianie dyski rozmiarów 24 x 8mm będą już OK.
+Jako że żeton ten przekręca się często w grze, sugeruję użyć czegoś większego, wygodniejszego niż małe żetony o średnicy 15mm. Przykładowo drewnianie dyski rozmiarów 24 x 8mm będą już OK.
 
 # Żeton pierwszego gracza
 
