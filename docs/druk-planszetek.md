@@ -13,5 +13,5 @@ osiągnięcia pożądanej sztywności planszetki. Oczywiście można planszetkę
 | Planszetka gracza zielonego | [zielona.png](../export/planszetki/zielona.png) |
 | Planszetka gracza żółtego | [czerwona.png](../export/planszetki/zolta.png) |
 
-Trzeba wyregulować sobie skalę (powiększenie) druku tak, aby na wydrukowanych planszetkach w odpowiednich ich miejscach mieściły się swobodnie wydrukowane
+Trzeba wyregulować sobie skalę (powiększenie) druku tak, aby na wydrukowanych planszetkach w odpowiednich miejscach swobodnie mieściły się wydrukowane
 karty (patrz [druk-kart.md](./druk-kart.md)), które standardowo mają rozmiar 63 x 88mm. 
