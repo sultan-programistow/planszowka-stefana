@@ -44,7 +44,7 @@ inny żeton zastępczy też będzie ok.
 
 W grze występują znaczniki jedzenia, których maksymalnie będzie potrzebnych 12 sztuk. Mogą być dowolnego kształtu i koloru, ja użyłem grafiki
 
-![zeton-jedzenia.png](../export/zetony/zeton-jedzenia.png)
+<img width="80" height="80" alt="żeton jedzenia" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-jedzenia.png"/>
 
 wydrukowanej i naklejonej z obu stron na [zielone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/green-gaming-tokens/)
 
@@ -53,22 +53,30 @@ wydrukowanej i naklejonej z obu stron na [zielone plastikowe żetony 14 x 4mm](h
 W grze występują znaczniki trwałości ubrań (których maksymalnie będzie potrzebnych 12 sztuk) i znaczniki nauki (a tych 19). Mogą być dowolnego kształtu i koloru, mogą
 być osobno. Ja użyłem grafik
 
-![zeton-ubrania-awers.png](../export/zetony/zeton-ubrania-awers.png)![zeton-nauki-rewers.png](../export/zetony/zeton-nauki-rewers.png)
+<p>
+  <img width="80" height="80" alt="żeton ubrania awers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-ubrania-awers.png"/>
+  <img width="80" height="80" alt="żeton nauki rewers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-nauki-rewers.png"/>
+</p>
 
 wydrukowanych i naklejonych na [czerwone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/red-gaming-tokens/) - z
-jednej strony żetonu nakleiłem ubranie, z drugiej strony biret. W ten sposób wystarczyło mi 23 dwustronnych żetonów ubrań/nauki zamiast 12+19 jednostronnych.  
+jednej strony żetonu nakleiłem ubranie, z drugiej strony biret. W ten sposób do wygodniej gry starczy mi 23 dwustronnych żetonów ubrań/nauki zamiast pełnego zestawu 12+19.  
 
 # Żetony głodu
 
 Każdy z czterech graczy musi posiadać dwustronny żeton głodu/najedzenia. Z jednej strony żółty uśmiech, z drugiej strony czerwony smuteczek.
-<table><tr><td><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/50b29332-8091-4ede-bbf5-e68eebc474ce" /></td><td><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/fbf31381-ec61-4901-aee0-97a842d59ecf" /></td></tr></table>
+<p>
+  <img width="130" height="130" alt="żeton glodu awers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-glodu-awers.png"/>
+  <img width="130" height="130" alt="żeton glodu rewers" src="https://github.com/sultan-programistow/planszowka-stefana/blob/main/export/zetony/zeton-glodu-rewers.png"/>
+</p>
 
-Jako że żeton ten przekręca się każdej rundy dwa razy, sugeruję użyć czegoś większego niż do pozostałych żetony. Drewnianie dyski rozmiarów 24 x 8mm będą OK.  
+Jako że żeton ten przekręca się każdej rundy dwa razy, sugeruję użyć czegoś większego, wygodniejszego niż żetony o średnicy 15mm. Przykładowo drewnianie dyski rozmiarów 24 x 8mm będą już OK.
 
 # Żeton pierwszego gracza
 
 Może być dowolny, jednakże ze względu na ikonografię na kartach najlepiej jakby był fotelem. Może być wydrukowaną i naklejoną grafiką
-<img width="159" height="161" alt="image" src="https://github.com/user-attachments/assets/52308681-c0f8-4ef4-a633-ec91828d9230" />
+
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/52308681-c0f8-4ef4-a633-ec91828d9230" />
+
 ...na blok techniczny lub brystol i sklejoną wielokrotnie w grubszą warstwę.
 
 # Żetony domków
@@ -91,7 +99,7 @@ Trzeba je obkleić z obu stron odpowiednimi symbolami:
 
 | Gracz/kolor | Awers | Rewers |
 |-------------|-------|--------|
-| Czerwony | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/c6d751bc-ad54-4cd5-b4d1-221c18185e84" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/af83dc9f-ee24-42f1-a37f-a66923c41ea7" /> |
-| Niebieski | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e9502e84-c3ca-4433-8ad2-a4f2c9473d8d" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/67d9fe20-fa1d-4f07-bce7-024fd2cd7dc0" /> |
-| Zielony | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/150215c7-e4ab-47a0-bed7-f19f06424422" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/517b0f4f-2329-40af-9598-4b4fdefa2bc0" /> |
-| Żółty | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/20b51571-88c1-46af-aa4c-45eb3c9bee3f" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/26d571eb-db24-4ee9-9b3a-fb2567f3c967" /> |
+| Czerwony | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c6d751bc-ad54-4cd5-b4d1-221c18185e84" /> | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/af83dc9f-ee24-42f1-a37f-a66923c41ea7" /> |
+| Niebieski | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/e9502e84-c3ca-4433-8ad2-a4f2c9473d8d" /> | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/67d9fe20-fa1d-4f07-bce7-024fd2cd7dc0" /> |
+| Zielony | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/150215c7-e4ab-47a0-bed7-f19f06424422" /> | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/517b0f4f-2329-40af-9598-4b4fdefa2bc0" /> |
+| Żółty | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/20b51571-88c1-46af-aa4c-45eb3c9bee3f" /> | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/26d571eb-db24-4ee9-9b3a-fb2567f3c967" /> |
