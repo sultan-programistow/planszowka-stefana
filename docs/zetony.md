@@ -88,7 +88,10 @@ Jako że żeton ten przekręca się często w grze, sugeruję użyć czegoś wi
 
 Może być dowolny, jednakże ze względu na użytą ikonografię na kartach najlepiej jakby był fotelem. Może być wydrukowaną i naklejoną grafiką
 
-<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/52308681-c0f8-4ef4-a633-ec91828d9230" />
+<p>
+  <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/52308681-c0f8-4ef4-a633-ec91828d9230" />
+  <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/f7895b6c-9ae2-46b5-ac4b-deb9855f07ba" />
+</p>
 
 ...na blok techniczny lub brystol i sklejoną wielokrotnie w grubszą warstwę.
 
