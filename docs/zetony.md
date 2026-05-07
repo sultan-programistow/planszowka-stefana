@@ -26,13 +26,14 @@ Do wygodnego grania potrzeba łącznie 127 "dolarów" w obiegu w grze. Dla przyk
 * 3 żetony 20 dolarowe
 * 8 żetonów 5 dolarowych
 * 27 żetonów 1 dolarowych
-Jest dobrym kompromisem pomiędzy ilością żetonów a ich przydatnością.
+
+...Jest dobrym kompromisem pomiędzy ilością żetonów a ich przydatnością.
 
 Możecie dowolny inny rozkład sobie przygotować/wydrukować. Albo może macie zastępcze pieniądze z innej gry. Albo możecie kupić
 [gotowy zestaw](https://mepel.pl/micro-moonshine-drewniane-banknoty). Albo użyć zupełnie innych nominałów - tak długo
 jak wam to działa to używajcie tego co macie.
 
-Do żetonów 1-dolarowych użułem grafik
+Do żetonów 1-dolarowych użyłem grafik
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bdb78651-2282-4db5-b7d0-231d2709c37e" />
 nadrukowanych na [żółte plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/gold-gaming-tokens/).
 
