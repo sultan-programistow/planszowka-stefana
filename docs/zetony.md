@@ -15,26 +15,26 @@ wybranym kolorze:
 * https://mepel.pl/pl/searchquery/cylinder/1/phot/5?url=cylinder
 
 Ja używam plastikowych żetonów [Fantasy Flight Supply](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/), których raczej już nie ma dostępnych:
-![Uploading image.png…]()
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/7af1f004-fbd4-4797-8b40-f12c6fc9df4c" />
 
-Współczesnym odpowiednikiem mogłyby być [Dreamtrace Game Tokens](https://www.ghostgalaxy.com/pages/dreamtrace), ale nie wiem czy są dostępne w Polsce.
+Współcześnie produkowanym odpowiednikiem mogłyby być [Dreamtrace Game Tokens](https://www.ghostgalaxy.com/pages/dreamtrace), ale nie wiem czy są dostępne w Polsce.
 
 # Żetony pieniędzy
 
-Ze wstępnych testów wynika, że do wygodnego grania wystarczy łącznie 127 "dolarów" w grze. Dla przykładu rozkład:
+Do wygodnego grania potrzeba łącznie 127 "dolarów" w obiegu w grze. Dla przykładu rozkład:
 * 3 żetony 20 dolarowe
 * 8 żetonów 5 dolarowych
 * 27 żetonów 1 dolarowych
 Jest dobrym kompromisem pomiędzy ilością żetonów a ich przydatnością.
 
-Możecie dowolny inny rozkład sobie przygotować/wydrukować. Może macie zastępcze pieniądze z innej gry. Albo kupić
+Możecie dowolny inny rozkład sobie przygotować/wydrukować. Albo może macie zastępcze pieniądze z innej gry. Albo możecie kupić
 [gotowy zestaw](https://mepel.pl/micro-moonshine-drewniane-banknoty). Albo użyć zupełnie innych nominałów - tak długo
 jak wam to działa to używajcie tego co macie.
 
-Ja użyłem do żetonów 1-dolarowych grafik z [zetony.xcf](../src/zetony.xcf) (mogę je wyeksportować do .png jeśli dacie znać, że potrzebujecie),
+Do żetonów 1-dolarowych użułem grafik z [zetony.xcf](../src/zetony.xcf) (mogę je wyeksportować do .png jeśli dacie znać, że potrzebujecie),
 nadrukowanych na [żółte plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/gold-gaming-tokens/).
 
-Do 5-dolarowych żetonów takiej grafiki: [banknoty-piecodolarowe.png](../src/banknoty-pieciodolarowe.png) - nadrukowane na brystol,
+Do 5-dolarowych żetonów takiej grafiki: [banknoty-pieciodolarowe.png](../src/banknoty-pieciodolarowe.png) - nadrukowane na brystol,
 posklejane kilkukrotne w grubsze warstwy i przyciete nozyczkami.
 
 Do 20-dolarowych żetonów użyłem "sztabek złota" z brystolu, ale nie mam już do nich źródeł - zgubiły się w odmętach czasu. Myślę, że dowolny
@@ -42,20 +42,56 @@ inny żeton zastępczy też będzie ok.
 
 # Żetony jedzenia
 
-Gra może wymagać 12 żetonów jedzenia. Mogą być dowolnego kształtu i koloru, ja użyłem grafiki
+W grze występują znaczniki jedzenia, których maksymalnie będzie potrzebnych 12 sztuk. Mogą być dowolnego kształtu i koloru, ja użyłem grafiki
 
 ![zeton-jedzenia.png](../export/zetony/zeton-jedzenia.png)
 
-nadrukowanej z obu stron na [zielone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/green-gaming-tokens/)
+wydrukowanej i naklejonej z obu stron na [zielone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/green-gaming-tokens/)
 
 # Żetony trwałości/nauki
 
-todo
+W grze występują znaczniki trwałości ubrań (których maksymalnie będzie potrzebnych 12 sztuk) i znaczniki nauki (a tych 19). Mogą być dowolnego kształtu i koloru, mogą
+być osobno. Ja użyłem grafik
+
+![zeton-ubrania-awers.png](../export/zetony/zeton-ubrania-awers.png)![zeton-nauki-rewers.png](../export/zetony/zeton-nauki-rewers.png)
+
+wydrukowanych i naklejonych na [czerwone plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/red-gaming-tokens/) - z
+jednej strony żetonu nakleiłem ubranie, z drugiej strony biret. W ten sposób wystarczyło mi 23 dwustronnych żetonów ubrań/nauki zamiast 12+19 jednostronnych.  
 
 # Żetony głodu
 
+Każdy z czterech graczy musi posiadać dwustronny żeton głodu/najedzenia. Z jednej strony żółty uśmiech, z drugiej strony czerwony smuteczek.
+<table><tr><td><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/50b29332-8091-4ede-bbf5-e68eebc474ce" /></td><td><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/fbf31381-ec61-4901-aee0-97a842d59ecf" /></td></tr></table>
+
+Jako że żeton ten przekręca się każdej rundy dwa razy, sugeruję użyć czegoś większego niż do pozostałych żetony. Drewnianie dyski rozmiarów 24 x 8mm będą OK.  
+
 # Żeton pierwszego gracza
+
+Może być dowolny, jednakże ze względu na ikonografię na kartach najlepiej jakby był fotelem. Może być wydrukowaną i naklejoną grafiką
+<img width="159" height="161" alt="image" src="https://github.com/user-attachments/assets/52308681-c0f8-4ef4-a633-ec91828d9230" />
+...na blok techniczny lub brystol i sklejoną wielokrotnie w grubszą warstwę.
 
 # Żetony domków
 
+Potrzebne są cztery żetony domków (takich jak z Osadników z Katanu) w kolorach graczy. Do dostania w pierwszym lepszym sklepie internetowym, np:
+* https://mepel.pl/domek-drewniany-catan
+(jeden czerwony, jeden niebieski, jeden zielony i jeden żółty)
+
 # Żetony pionków
+Potrzebne są cztery żetony pionków (takich jak meple z Carcassone) w kolorach graczy. Do dostania w pierwszym lepszym sklepie internetowym, np:
+* https://mepel.pl/carcassonne-pionek
+(jeden czerwony, jeden niebieski, jeden zielony i jeden zółty)
+
+# Żetony na torze relaksu
+Potrzebne są cztery dyski/cylindry w kolorach graczy. Będą służyć do zaznaczania pozycji na torze relaksu, czyli muszą mieć taką samą średnicę
+jak pola na wydrukowamnych planszetkach (15mm). Przykładowo takie drewniane cylindry będą pasować:
+* https://mepel.pl/cylinder-15x10
+
+Trzeba je obkleić z obu stron odpowiednimi symbolami:
+
+| Gracz/kolor | Awers | Rewers |
+|-------------|-------|--------|
+| Czerwony | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/c6d751bc-ad54-4cd5-b4d1-221c18185e84" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/af83dc9f-ee24-42f1-a37f-a66923c41ea7" /> |
+| Niebieski | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e9502e84-c3ca-4433-8ad2-a4f2c9473d8d" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/67d9fe20-fa1d-4f07-bce7-024fd2cd7dc0" /> |
+| Zielony | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/150215c7-e4ab-47a0-bed7-f19f06424422" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/517b0f4f-2329-40af-9598-4b4fdefa2bc0" /> |
+| Żółty | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/20b51571-88c1-46af-aa4c-45eb3c9bee3f" /> | <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/26d571eb-db24-4ee9-9b3a-fb2567f3c967" /> |
