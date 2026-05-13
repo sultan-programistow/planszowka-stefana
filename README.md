@@ -2,17 +2,17 @@ Cześć!
 
 To repozytorium zawiera pliki źródłowe, grafiki, dokumentację techniczną i wskazówki niezbędne do wydrukowania sobie egzemplarza gry planszowej "Nie Trać Czasu".
 
-Repozytorium przechowuje ogromne pliki (>100MB) za pomocą "Git Large File Storage", więc jeśli chcecie pobrać je sobie gitem, musicie mieć zainstalowany
+Repozytorium przechowuje ogromne pliki (>100MB) za pomocą "Git Large File Storage", więc jeśli chcesz pobrać je sobie gitem, musisz mieć zainstalowany
 dodatek [git-lfs](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
 
 # Struktura repozytorium
 
 W katalogu [export](./export) znajdują się gotowe artefakty graficzne typu .png .pdf, których można użyć do wydrukowania komponentów gry. Nie trzeba nic w nich edytować - choć może trzeba będzie dobrać skalę wydruków, żeby wyszły w odpowiedniej wielkości na papierze. Jeśli jesteś tutaj tylko z ciekawości, żeby zobaczyć co to w ogóle za gra, to ten katalog będzie w sam raz dla ciebie - zajrzyj tam. 
 
-W katalogu [docs](./docs) znajdziecie dokumenty opisujące jakie dokładnie komponenty są potrzebne do gry i w jakiej ilości. Oraz wskazówki jak je wytworzyć
+W katalogu [docs](./docs) znajdują się dokumenty opisujące jakie dokładnie komponenty są potrzebne do gry i w jakiej ilości. Oraz wskazówki jak je wytworzyć
 lub w których sklepach ich szukać. Jeśli jesteś tutaj żeby wydrukować sobie egzemplarz gry, to ten katalog będzie w sam raz dla ciebie - zajrzyj tam.
 
-W katalogu [src](./src) znajdziecie pliki źródłowe, których używałem do tworzenia grafik w grze. Są to głównie pliki .xcf, czyli do open-sourcowego edytora graficznego 
+W katalogu [src](./src) znajdują się pliki źródłowe, których używałem do tworzenia grafik w grze. Są to głównie pliki .xcf, czyli do open-sourcowego edytora graficznego 
 [Gimp](https://www.gimp.org/) (którego używałem w wersji 2.10). Można ich użyć do poprawienia i wygenerowania nowych artefaktów (np. z innymi czcionkami lub
 dodanym kolorem dla 5-tego gracza). Jeśli jesteś tutaj, żeby zmodyfikować i/lub dostosować grę i jej komponenty, to ten katalog będzie w sam raz dla ciebie.
 
