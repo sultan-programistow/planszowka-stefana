@@ -33,8 +33,8 @@ Możecie dowolny inny rozkład sobie przygotować/wydrukować. Albo może macie 
 [gotowy zestaw](https://mepel.pl/micro-moonshine-drewniane-banknoty). Albo użyć zupełnie innych nominałów - tak długo
 jak wam to działa to używajcie tego co macie.
 
-Do żetonów 1-dolarowych użyłem grafik
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bdb78651-2282-4db5-b7d0-231d2709c37e" />
+Do żetonów 1-dolarowych użyłem grafik  
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bdb78651-2282-4db5-b7d0-231d2709c37e" />  
 nadrukowanych na [żółte plastikowe żetony 14 x 4mm](https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/products/gold-gaming-tokens/).
 
 Do 5-dolarowych żetonów takiej grafiki: [banknoty-pieciodolarowe.png](../src/banknoty-pieciodolarowe.png) - nadrukowane na brystol,
