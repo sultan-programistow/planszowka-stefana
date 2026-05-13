@@ -19,16 +19,16 @@ dodanym kolorem dla 5-tego gracza). Jeśli jesteś tutaj, żeby zmodyfikować i/
 # O grze
 
 Gra nosi roboczy tytuł "Nie Trać Czasu" a do jej powstania główną inspiracją była stara gra komputerowa z czasów MS-DOS: [Jones in the Fast Lane](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane). Zarówno tamta stara komputerowa, jak i ta nowa planszowa gra jest o ludziach, którzy 
-w fikcyjnym mieście próbują osiągnąć sukcesy zawodowe, naukowe, pieniężne itp. W osiągnieciu tych celów przeszkadza zwykła, codzienna walka o 
-przetrwanie: a to trzeba się najeść, a to opłacić czynsze, a to się ubranie podarło i trzeba kupić nowe, itp itd.
+w fikcyjnym mieście próbują osiągnąć sukcesy zawodowe, naukowe, pieniężne itp. W osiągnieciu tych celów przeszkadzają zwykłe, codzienne sprawy: a to
+trzeba się najeść, a to opłacić czynsz, a to ubranie się podarło i trzeba kupić nowe, itp itd.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/96f8c868-633d-4465-baba-b6383595cbb9" />
 <p align="middle"><em>tak wygląda rozłożony prototyp gry przygotowany dla 4 osób</em></p>
 
 Gra jest podobna swoim typem do takich tytułów jak ["Na Skrzydłach"](https://www.rebel.pl/gry-planszowe/na-skrzydlach-108556.html), ["Agricola"](https://www.rebel.pl/gry-planszowe/agricola-wersja-dla-graczy-101438.html). Każdy z graczy tak jakby układa własnego pasjansa poprzez
-rozbudowywanie swojej planszy o kolejne karty dostępne dla wszystkich. Czas gry jest ograniczony (8 rund po 6 tur) - a więc nie rozwleka się w 
-nieskończoność. Na koniec wszyscy sprawdzają wartość punktową swego pasjansa. Zero interakcji bezpośredniej (nie ma "wbijania noża
-w innych graczy" ani nawet handlu pomiędzy nimi). Za to jest spora losowość: jak się kostki i karty uwezmą na kimś, to i ciężko jest 
+rozbudowywanie swojej planszy o kolejne karty z puli dostępnych dla wszystkich. Czas gry jest ograniczony (8 rund po 6 tur) - a więc nie 
+rozwleka się w nieskończoność. Na koniec wszyscy sprawdzają wartość punktową swego pasjansa. Zero interakcji bezpośredniej (nie ma "wbijania
+noża w plecy innym graczom" ani nawet handlu pomiędzy nimi). Za to jest spora losowość: jak się kostki i karty uwezmą na ciebie, to i ciężko jest 
 ukończyć wysoko punktowanego pasjansa.
 
 * 2 — 4 graczy
