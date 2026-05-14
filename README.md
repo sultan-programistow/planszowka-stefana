@@ -19,7 +19,7 @@ dodanym kolorem dla 5-tego gracza). Jeśli jesteś tutaj, żeby zmodyfikować i/
 # O grze
 
 Gra nosi roboczy tytuł "Nie Trać Czasu" a do jej powstania główną inspiracją była stara gra komputerowa z czasów MS-DOS: [Jones in the Fast Lane](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane). Zarówno tamta stara komputerowa, jak i ta nowa planszowa gra jest o ludziach, którzy 
-w fikcyjnym mieście próbują osiągnąć sukcesy zawodowe, naukowe, pieniężne itp. W osiągnieciu tych celów przeszkadzają zwykłe, codzienne sprawy: a to
+w fikcyjnym mieście próbują osiągnąć sukcesy zawodowe, naukowe, pieniężne itp. W osiągnięciu tych celów przeszkadzają zwykłe, codzienne sprawy: a to
 trzeba się najeść, a to opłacić czynsz, a to ubranie się podarło i trzeba kupić nowe, itp itd.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/96f8c868-633d-4465-baba-b6383595cbb9" />
