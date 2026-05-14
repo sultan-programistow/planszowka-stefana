@@ -12,7 +12,7 @@ W katalogu [export](./export) znajdują się gotowe artefakty graficzne typu .pn
 W katalogu [docs](./docs) znajdują się dokumenty opisujące jakie dokładnie komponenty są potrzebne do gry i w jakiej ilości. Oraz wskazówki jak je wytworzyć
 lub w których sklepach ich szukać. Jeśli jesteś tutaj żeby wydrukować sobie egzemplarz gry, to ten katalog będzie w sam raz dla ciebie - zajrzyj tam.
 
-W katalogu [src](./src) znajdują się pliki źródłowe, których używałem do tworzenia grafik w grze. Są to głównie pliki .xcf, czyli do open-sourcowego edytora graficznego 
+W katalogu [src](./src) znajdują się pliki źródłowe, których używałem do tworzenia grafik w grze. Są to głównie pliki .xcf, czyli do darmowego edytora graficznego 
 [Gimp](https://www.gimp.org/) (którego używałem w wersji 2.10). Można ich użyć do poprawienia i wygenerowania nowych artefaktów (np. z innymi czcionkami lub
 dodanym kolorem dla 5-tego gracza). Jeśli jesteś tutaj, żeby zmodyfikować i/lub dostosować grę i jej komponenty, to ten katalog będzie w sam raz dla ciebie.
 
