@@ -25,8 +25,8 @@ _(przy druku 9 awersów/rewersów na jednym arkuszu potrzebujecie takich arkuszy
 
 #### Zwykły papier ####
 
-Druga opcja to druk na zwykłym papierze do drukarki i ręczne naklejanie kart. Do naklejania kart na papier polecam kleje Scotch 3M:
-<img width="192" height="340" alt="image" src="https://github.com/user-attachments/assets/13e49292-cfd1-4128-a7df-00ff140624a8" />
+Druga opcja to druk na zwykłym papierze do drukarki i ręczne naklejanie kart. Do naklejania kart na papier polecam kleje Scotch 3M:  
+<img width="192" height="340" alt="image" src="https://github.com/user-attachments/assets/13e49292-cfd1-4128-a7df-00ff140624a8" />  
 Mają one dobre właściwości nie marszczące, klejące, a do tego łatwo odchodzą pod wpływem gorącej pary z czajnika (gdyby zaszła potrzeba zrobienia poprawek
 w już poklejonych kartach). Kleje te spokojnie znajdziecie na allegro albo w swoim lokalnym papierniczym. Ciężko mi ocenić, ile ich byście
 potrzebowali - strzelam, że około 120-160 gramów łącznie.
