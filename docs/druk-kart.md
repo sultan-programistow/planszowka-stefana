@@ -78,7 +78,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [remanent.png](../export/karty/zdarzenia/remanent.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [strajk-studentow.png](../export/karty/zdarzenia/strajk-studentow.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [fala-zwolnien.png](../export/karty/zdarzenia/fala-zwolnien.png) |
-| 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [ulga-logistyczna.png](../export/karty/zdarzenia/ulga-logitstyczna.png) |
+| 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [ulga-logistyczna.png](../export/karty/zdarzenia/ulga-logistyczna.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [moda-sezonu.png](../export/karty/zdarzenia/moda-sezonu.png) |
 | --- | 6 kart ubrań | --- |
 | 2 | [zwykle-ciuchy-galeria.png](../export/karty/ubrania/zwykle-ciuchy-galeria.png) | [elegancka-odziez-galeria.png](../export/karty/ubrania/elegancka-odziez-galeria.png) |
