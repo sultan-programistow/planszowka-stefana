@@ -164,7 +164,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-a.png](../export/karty/najem/kawalerka-a.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-b.png](../export/karty/najem/kawalerka-b.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-c.png](../export/karty/najem/kawalerka-c.png) |
-| --- | 21 kart towarów | --- |
+| --- | 22 kart towarów | --- |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zwykle-ciuchy-pasaz.png](../export/karty/towary/zwykle-ciuchy-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [elegencka-odziez-pasaz.png](../export/karty/towary/elegancka-odziez-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [slownik.png](../export/karty/towary/slownik.png) |
@@ -185,6 +185,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [pralka-pasaz.png](../export/karty/towary/pralka-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [krawat-z-lumpeksu.png](../export/karty/towary/krawat-z-lumpeksu.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [aspiryna.png](../export/karty/towary/aspiryna.png) |
+| 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zestaw-do-szycia.png](../export/karty/towary/zestaw-do-szycia.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zarcie-dla-psa.png](../export/karty/towary/zarcie-dla-psa.png) |
 | --- | 13 kart sprzetów | --- |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [mikrofalowka-salon.png](../export/karty/sprzety/mikrofalowka-salon.png) |
