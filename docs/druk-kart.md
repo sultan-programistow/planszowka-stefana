@@ -1,6 +1,6 @@
 # Druk kart
 
-Gra wymaga wydrukowania 171 kart. Ich rewersy i awersy w formacie .png znajdują się w katalogu [export/karty](../export/karty) i zostały przygotowane z myślą o 
+Gra wymaga wydrukowania 180 kart. Ich rewersy i awersy w formacie .png znajdują się w katalogu [export/karty](../export/karty) i zostały przygotowane z myślą o 
 rozmiarze kart 63 x 88mm (czyli CCG - klasyczne karty do gier typu poker, pasjans, itp). Czyste karty w takim rozmiarze można zamówić np. ze sklepu mepel.pl:
 
 * https://mepel.pl/Czyste-karty-do-gry-63-x-88-mm-55-szt-ccg-classic-card-game
@@ -16,12 +16,12 @@ karty w formacie .pdf, spełniającym ich wymagania (spady, marginesy, itp).
 
 ## Druk na domowej drukarce
 
-Zakładając, że macie już te 171 kart o rozmiarze 63 x 88mm, to następnym problemem do rozwiązania będzie naklejenie wydrukowanych awersów i rewersów na te karty.
+Zakładając, że macie już te 180 kart o rozmiarze 63 x 88mm, to następnym problemem do rozwiązania będzie naklejenie wydrukowanych awersów i rewersów na te karty.
 Możecie albo drukować na arkuszach samoprzylepnych (jeśli wasza drukarka domowa "wytrzyma" druk na czymś takim), przykładowo ja używałem:
 
 * https://allegro.pl/oferta/papier-samoprzylepny-bialy-50-ark-a4-matowy-6117942327
 
-_(przy druku 9 awersów/rewersów na jednym arkuszu potrzebujecie takich arkuszy 38 + kilka zapasowych arkuszy na pomyłki)_
+_(przy druku 9 awersów/rewersów na jednym arkuszu potrzebujecie takich arkuszy 40 + kilka zapasowych arkuszy na pomyłki)_
 
 #### Zwykły papier ####
 
@@ -59,7 +59,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [lokacja-rewers.png](../export/karty/lokacje/lokacja-rewers.png) | [galeria.png](../export/karty/lokacje/galeria.png) |
 | 1 | [lokacja-rewers.png](../export/karty/lokacje/lokacja-rewers.png) | [supersam.png](../export/karty/lokacje/supersam.png) |
 | 1 | [lokacja-rewers.png](../export/karty/lokacje/lokacja-rewers.png) | [burgerownia.png](../export/karty/lokacje/burgerownia.png) |
-| --- | 24 karty zdarzeń | --- |
+| --- | 25 kart zdarzeń | --- |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [dodatkowa-praca.png](../export/karty/zdarzenia/dodatkowa-praca.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [dodatkowy-towar.png](../export/karty/zdarzenia/dodatkowy-towar.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [dodatkowy-najem.png](../export/karty/zdarzenia/dodatkowy-najem.png) |
@@ -70,6 +70,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 2 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [deflacja.png](../export/karty/zdarzenia/deflacja.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [mgla.png](../export/karty/zdarzenia/mgla.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [promocje-sprzetu.png](../export/karty/zdarzenia/promocje-sprzetu.png) |
+| 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [targi-staroci.png](../export/karty/zdarzenia/targi-staroci.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [dni-nauki.png](../export/karty/zdarzenia/dni-nauki.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [remonty-a.png](../export/karty/zdarzenia/remonty-a.png) |
 | 1 | [zdarzenie-rewers.png](../export/karty/zdarzenia/zdarzenie-rewers.png) | [remonty-b.png](../export/karty/zdarzenia/remonty-b.png) |
@@ -86,7 +87,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 2 | [zwykle-ciuchy-galeria.png](../export/karty/ubrania/zwykle-ciuchy-galeria.png) | [stroj-biznesowy.png](../export/karty/ubrania/stroj-biznesowy.png) |
 | --- | 4 karty losów loteryjnych | --- |
 | 4 | [losy-loteryjne.png](../export/karty/losy-loteryjne/losy-loteryjne.png) | [losy-loteryjne.png](../export/karty/losy-loteryjne/losy-loteryjne.png) |
-| --- | 38 karty prac | --- |
+| --- | 38 kart prac | --- |
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | kampus/[sprzatacz.png](../export/karty/praca/kampus/sprzatacz.png) |
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | kampus/[asystent.png](../export/karty/praca/kampus/asystent.png) |
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | kampus/[docent.png](../export/karty/praca/kampus/docent.png) |
@@ -126,7 +127,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | burgerownia/[kelner.png](../export/karty/praca/burgerownia/kelner.png) |
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | burgerownia/[kierownik.png](../export/karty/praca/burgerownia/kierownik.png) |
 | 1 | [praca-rewers.png](../export/karty/praca/praca-rewers.png) | burgerownia/[dyrektor.png](../export/karty/praca/burgerownia/dyrektor.png) |
-| --- | 24 kart edukacji | --- |
+| --- | 24 karty edukacji | --- |
 | 2 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [podyplomowka.png](../export/karty/edukacja/podyplomowka.png) |
 | 2 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [budowlanka.png](../export/karty/edukacja/budowlanka.png) |
 | 2 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [budzetowka.png](../export/karty/edukacja/budzetowka.png) |
@@ -141,11 +142,12 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [publikacje.png](../export/karty/edukacja/publikacje.png) |
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [habilitacja.png](../export/karty/edukacja/habilitacja.png) |
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [projekty-badawcze.png](../export/karty/edukacja/projekty-badawcze.png) |
-| --- | 32 karty najmu | --- |
+| --- | 33 karty najmu | --- |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [dania-pod-drzwi.png](../export/karty/najem/dania-pod-drzwi.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [prenumeraty.png](../export/karty/najem/prenumeraty.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [przewozy.png](../export/karty/najem/przewozy.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [taryfiarz.png](../export/karty/najem/taryfiarz.png) |
+| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [motocykl.png](../export/karty/najem/motocykl.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [garaz.png](../export/karty/najem/garaz.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [piwnica.png](../export/karty/najem/piwnica.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [poddasze.png](../export/karty/najem/poddasze.png) |
@@ -164,7 +166,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-a.png](../export/karty/najem/kawalerka-a.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-b.png](../export/karty/najem/kawalerka-b.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-c.png](../export/karty/najem/kawalerka-c.png) |
-| --- | 22 kart towarów | --- |
+| --- | 22 karty towarów | --- |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zwykle-ciuchy-pasaz.png](../export/karty/towary/zwykle-ciuchy-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [elegencka-odziez-pasaz.png](../export/karty/towary/elegancka-odziez-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [slownik.png](../export/karty/towary/slownik.png) |
@@ -187,7 +189,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [aspiryna.png](../export/karty/towary/aspiryna.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zestaw-do-szycia.png](../export/karty/towary/zestaw-do-szycia.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zarcie-dla-psa.png](../export/karty/towary/zarcie-dla-psa.png) |
-| --- | 13 kart sprzetów | --- |
+| --- | 14 kart sprzetów | --- |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [mikrofalowka-salon.png](../export/karty/sprzety/mikrofalowka-salon.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [odkurzacz.png](../export/karty/sprzety/odkurzacz.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [telewizor-kolorowy-salon.png](../export/karty/sprzety/telewizor-kolorowy-salon.png) |
@@ -199,6 +201,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [kuchenka-salon.png](../export/karty/sprzety/kuchenka-salon.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [lodowka-salon.png](../export/karty/sprzety/lodowka-salon.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [zamrazarka.png](../export/karty/sprzety/zamrazarka.png) |
+| 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [zmywarka.png](../export/karty/sprzety/zmywarka.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [pralka-salon.png](../export/karty/sprzety/pralka-salon.png) |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [magnetowid-salon.png](../export/karty/sprzety/magnetowid-salon.png) |
 
