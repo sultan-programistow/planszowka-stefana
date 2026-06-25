@@ -142,7 +142,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [publikacje.png](../export/karty/edukacja/publikacje.png) |
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [habilitacja.png](../export/karty/edukacja/habilitacja.png) |
 | 1 | [edukacja-rewers.png](../export/karty/edukacja/edukacja-rewers.png) | [projekty-badawcze.png](../export/karty/edukacja/projekty-badawcze.png) |
-| --- | 33 karty najmu | --- |
+| --- | 34 karty najmu | --- |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [dania-pod-drzwi.png](../export/karty/najem/dania-pod-drzwi.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [prenumeraty.png](../export/karty/najem/prenumeraty.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [przewozy.png](../export/karty/najem/przewozy.png) |
@@ -157,16 +157,17 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [dzialka.png](../export/karty/najem/dzialka.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kamienica.png](../export/karty/najem/kamienica.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [studio.png](../export/karty/najem/studio.png) |
-| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [melina.png](../export/karty/najem/melina.png) |
+| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [warsztat.png](../export/karty/najem/warsztat.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [rezydencja.png](../export/karty/najem/rezydencja.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [apartament.png](../export/karty/najem/apartament.png) |
+| 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [mieszkanie.png](../export/karty/najem/mieszkanie.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [atelier.png](../export/karty/najem/atelier.png) |
 | 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [akademik.png](../export/karty/najem/akademik.png) |
-| 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [mieszkanie.png](../export/karty/najem/mieszkanie.png) |
+| 1 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [melina.png](../export/karty/najem/melina.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-a.png](../export/karty/najem/kawalerka-a.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-b.png](../export/karty/najem/kawalerka-b.png) |
 | 2 | [najem-rewers.png](../export/karty/najem/najem-rewers.png) | [kawalerka-c.png](../export/karty/najem/kawalerka-c.png) |
-| --- | 22 karty towarów | --- |
+| --- | 23 karty towarów | --- |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zwykle-ciuchy-pasaz.png](../export/karty/towary/zwykle-ciuchy-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [elegencka-odziez-pasaz.png](../export/karty/towary/elegancka-odziez-pasaz.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [slownik.png](../export/karty/towary/slownik.png) |
@@ -188,6 +189,7 @@ jakieś źródło światła, kładziecie wydruki na blacie (grafikami w dół) i
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [krawat-z-lumpeksu.png](../export/karty/towary/krawat-z-lumpeksu.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [aspiryna.png](../export/karty/towary/aspiryna.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zestaw-do-szycia.png](../export/karty/towary/zestaw-do-szycia.png) |
+| 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zegarek.png](../export/karty/towary/zegarek.png) |
 | 1 | [towar-rewers.png](../export/karty/towary/towar-rewers.png) | [zarcie-dla-psa.png](../export/karty/towary/zarcie-dla-psa.png) |
 | --- | 14 kart sprzetów | --- |
 | 1 | [sprzet-rewers.png](../export/karty/sprzety/sprzet-rewers.png) | [mikrofalowka-salon.png](../export/karty/sprzety/mikrofalowka-salon.png) |
